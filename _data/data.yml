@@ -44,12 +44,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Systems Engineer with more than 15 years of work in the IT 
+      infrastructure sector of federal education institute in Brazil.
+      Strong information technology professional skilled in Network administration, 
+      Storage Area Networks, HP 3PAR and EMC Unity administration, Sonicwall Firewalls, 
+      Palo Alto Networks, F5 BigIP, Microsoft Windows Servers, Microsoft Active Directory, 
+      Microsoft Exchange Server, VMware vSphere, Wireless Network administration, Ruckus wireless, 
+      Internet Protocol Suite (TCP/IP), Linux System Administration, Docker containers, 
+      Kubernetes, and IT Service Management.
+
 education:
     - degree: MSc in Computer Science
       university: UFPE (cin.ufpe.br)
